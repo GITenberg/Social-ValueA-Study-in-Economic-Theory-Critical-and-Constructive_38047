@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37258'
     url: http://www.gutenberg.org/2009/agents/37258
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38047#Social-ValueA-Study-in-Economic-Theory-Critical-and-Constructive
 gutenberg_issued: '2011-11-18'
 gutenberg_type: Text
 identifiers:
