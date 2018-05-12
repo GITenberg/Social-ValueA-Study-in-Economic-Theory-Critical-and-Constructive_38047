@@ -1,0 +1,30 @@
+_repo: Social-ValueA-Study-in-Economic-Theory-Critical-and-Constructive_38047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Benjamin M. (Benjamin McAlester)
+    aliases:
+    - Anderson, Benjamin McAlester
+    - Anderson, B. M. (Benjamin McAlester)
+    birthdate: 1886
+    deathdate: 1949
+    gutenberg_agent_id: '37258'
+    url: http://www.gutenberg.org/2009/agents/37258
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38047'
+  lccn: ltf96000305
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Value'
+title: 'Social Value: A Study in Economic Theory, Critical and Constructive'
+url: http://www.gutenberg.org/ebooks/38047
